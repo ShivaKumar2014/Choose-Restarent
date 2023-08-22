@@ -4,7 +4,7 @@
 
 Restaurant system of choice, something to eat lunch (REST only)
 ===============================================================
-### [Testing task](https://github.com/ShivaKumar2014/Choose-Restarent/blob/master/test_task.md)
+### [Testing task](https://github.com/ShivaKumar2014/Choose-Restarent/test_task.md)
 
 #### Implementation Stack:
 
